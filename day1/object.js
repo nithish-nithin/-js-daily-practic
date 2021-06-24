@@ -41,9 +41,21 @@ let person3 ={
 
 }
  
- console.log(person1);
- console.log(person2);
- console.log(person3);
+ console.log(person1.address);
+    
+        
+   
+
+
+
+
+
+
+
+ 
+
+   
+
 
 
 
