@@ -17,10 +17,7 @@ let person2={
     nickName:'tamizh',
     age:20,
     address: "chennai, tamilnadu",
-    siblings:{
-        brother:'nithish',
-        sister: 'renna rai',
-    }
+    siblings:{    }
 
 }
 
@@ -34,7 +31,7 @@ let person3 ={
     nickName:'renna',
     age:22,
     address: "chennai, tamilnadu",
-    siblind:{
+    siblins:{
         brother:'tamizarsu',
         sister: 'preethi',
     }

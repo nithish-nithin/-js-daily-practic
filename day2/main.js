@@ -36,12 +36,12 @@ switch(rank){
        console.log(' your A graud very good ');
        break
        case 'swetha':
-         console.log('your B graud averge');
+         console.log('your B grad averge');
          break
-         case 'reena':console.log('your C graud poor');
+         case 'reena':console.log('your C grad poor');
          break
          
-         case 'rajesh':console.log('your c graud very poor ');
+         case 'rajesh':console.log('your c grad very poor ');
          break
           default:console.log('result is not found');
 
@@ -62,8 +62,7 @@ switch(rank){
           break
           default:console.log('not found');
         }
-
-         console.log(marks);
+     console.log(marks)
           
 
 
